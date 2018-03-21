@@ -77,3 +77,14 @@ Created a test if `DockingStation` instances `respond_to` the method `release_bi
 #### Challenge 9: Building a bike
 
 Renamed `borisbikes_spec.rb` to `docking_station_spec.rb`. Aseel says that there should be one spec file for every class and one file for every class. we wrote a test for Bike class and created a Bike class and working? method.
+
+
+#### Challenge 10: Making docking stations release Bikes
+
+Add a test to your DockingStation specification that a) gets a bike, and then b) expects the bike to be working.
+We asked Jihin's mentor Laura for some tips with the rspec syntax. She explained that as rspec is written in ruby, we should not be afraid to write some ruby in the test.
+
+We then added to the ./lib files to make the tests pass!
+
+
+#### Challenge 11: Using instance variables
