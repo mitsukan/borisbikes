@@ -68,6 +68,8 @@ This fixed the error of undefined constant as well as location error within the 
 
 #### Challenge 7: Back to the feature!!!
 
-In irb we set a variable to an instant of DockingStation, we called release bike method on the variable and came up with an error: undefined error.
+In irb we set a variable to an instant of 'DockingStation', we called release bike method on the variable and came up with an error: undefined error.
 
 #### Challenge 8: Back to the unit!!!
+
+Created a test if 'DockingStation' instances 'respond_to' the method 'release_bike'
