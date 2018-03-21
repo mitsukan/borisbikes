@@ -58,6 +58,7 @@ We agreed that we should define the constant to directly fix this error.
 
 The difference between the error codes is that the error happened within the rspec file. The error name and detail was the same.
 
+### Day 2 - Aseel and Jihin
 
 #### Challenge 6: From Feature Tests to Unit Tests
 
@@ -88,3 +89,14 @@ We then added to the ./lib files to make the tests pass!
 
 
 #### Challenge 11: Using instance variables
+
+We researched into how to use `attr_reader` and instance variables, and how this relates to the challenge. After some discussion and research, we came across this link:
+attr_reader tutorial
+https://www.codecademy.com/en/forum_questions/50f0192b102455349200372d
+
+RSpec syntax stuff
+http://www.rubydoc.info/gems/rspec-expectations/frames
+
+We wrote a spec test to see whether the DockingStation instance has a Bike instance variable in it.
+We then learnt a lot!
+We restructured the DockingStation class (and we might have jumped ahead a bit).
