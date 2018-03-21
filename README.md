@@ -91,9 +91,9 @@ We then added to the ./lib files to make the tests pass!
 #### Challenge 11: Using instance variables
 
 We researched into how to use `attr_reader` and instance variables, and how this relates to the challenge. After some discussion and research, we came across this link:
-[attr_reader tutorial] (https://www.codecademy.com/en/forum_questions/50f0192b102455349200372d)
+[attr_reader tutorial](https://www.codecademy.com/en/forum_questions/50f0192b102455349200372d)
 
-[RSpec syntax stuff] (http://www.rubydoc.info/gems/rspec-expectations/frames)
+[RSpec syntax stuff](http://www.rubydoc.info/gems/rspec-expectations/frames)
 
 We wrote a spec test to see whether the DockingStation instance has a Bike instance variable in it.
 We then learnt a lot!
