@@ -74,6 +74,6 @@ In irb we set a variable to an instant of `DockingStation`, we called release bi
 
 Created a test if `DockingStation` instances `respond_to` the method `release_bike`
 
-#### Challenge 8: Building a bike
+#### Challenge 9: Building a bike
 
 Renamed `borisbikes_spec.rb` to `docking_station_spec.rb`. Aseel says that there should be one spec file for every class and one file for every class. we wrote a test for Bike class and created a Bike class and working? method.
