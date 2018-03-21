@@ -57,3 +57,13 @@ We agreed that we should define the constant to directly fix this error.
 #### Challenge 5: From Feature Tests to Unit Tests
 
 The difference between the error codes is that the error happened within the rspec file. The error name and detail was the same.
+
+
+#### Challenge 6: From Feature Tests to Unit Tests
+
+Switched pair partner to Jihin and Aseel!
+We defined a DockingStation class and then also pointed rspec towards this new .rb file.
+This fixed the error of undefined constant as well as location error within the rspec.
+
+
+#### Challenge 7: Back to the feature!!!
