@@ -123,5 +123,14 @@ Person  |  Check if bike docked
 Bike  |  
 Docking station |  
 
-We feature tested and then unit tested the .dock method within DockingStation.
 
+We then went through the process of TDD to hammer in the concept while we were working on this challenge:
+
+1. We go into `irb` and go through the lines of code to meet the specification. In this case, we wanted to see if we can "dock a bike at a docking station", or `station.dock`.
+2. We get an error message explaining the issue (there is no method)
+3. We write an rspec to test whether a method exists
+4. Run the RSpec. This test should have an error code that is the same as the error message in step 3.
+5. Once we have matching errors, we can now go into the code and fix BOTH the errors that were established.
+6. PASS THOSE TESTS!
+
+Once those tests have been passed, we can then move onto the next step. 
