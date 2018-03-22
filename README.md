@@ -98,3 +98,28 @@ We researched into how to use `attr_reader` and instance variables, and how this
 We wrote a spec test to see whether the DockingStation instance has a Bike instance variable in it.
 We then learnt a lot!
 We restructured the DockingStation class (and we might have jumped ahead a bit).
+
+
+###Day 4 Jihin and Mona
+
+#### Challenge 11: Using instance variables
+
+As Mona has not done this, we are going to do this from scratch.
+Firstly, we will be creating another table of Object and Messages to work out the 2 user stories:
+
+First user story:
+Objects | Messages
+------------- | -------------
+Person  |  Return bike
+Bike  |  
+Docking station |  Dock bike
+
+Second user story:
+Objects | Messages
+------------- | -------------
+Person  |  Check if bike docked
+Bike  |  
+Docking station |  
+
+We feature tested and then unit tested the .dock method within DockingStation.
+
