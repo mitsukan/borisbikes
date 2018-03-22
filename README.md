@@ -108,6 +108,7 @@ As Mona has not done this, we are going to do this from scratch.
 Firstly, we will be creating another table of Object and Messages to work out the 2 user stories:
 
 First user story:
+
 Objects | Messages
 ------------- | -------------
 Person  |  Return bike
@@ -115,6 +116,7 @@ Bike  |
 Docking station |  Dock bike
 
 Second user story:
+
 Objects | Messages
 ------------- | -------------
 Person  |  Check if bike docked
