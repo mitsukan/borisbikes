@@ -100,7 +100,8 @@ We then learnt a lot!
 We restructured the DockingStation class (and we might have jumped ahead a bit).
 
 
-###Day 4 Jihin and Mona
+### Day 4 Jihin and Mona
+
 
 #### Challenge 11: Using instance variables
 
